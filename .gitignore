@@ -36,11 +36,11 @@ replay_pid*
 */docker/
 
 ### Eclipse ###
-*./metadata/*
+*.metadata/*
 
 
 ### Sonar Lint ###
-*./sonarlint/*
+*.sonarlint/*
 
 ### STS ###
 .apt_generated
