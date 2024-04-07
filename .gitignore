@@ -1,6 +1,6 @@
 HELP.md
 target/
-*.mvn/wrapper/maven-wrapper.jar
+*/.mvn/*
 */src/main/**/target/
 */src/test/**/target/
 
@@ -36,11 +36,11 @@ replay_pid*
 */docker/
 
 ### Eclipse ###
-**./metadata/*
+*./metadata/*
 
 
 ### Sonar Lint ###
-**./sonarlint/*
+*./sonarlint/*
 
 ### STS ###
 .apt_generated
