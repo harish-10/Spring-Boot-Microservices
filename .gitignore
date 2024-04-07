@@ -3,7 +3,7 @@ target/
 */.mvn/*
 */src/main/**/target/
 */src/test/**/target/
-/mvnw
+mvnw
 mvnw.cmd
 
 # Compiled class file
